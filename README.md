@@ -100,6 +100,9 @@ Visualizations
     <p align="center">
   <img src="Photo/emp3.png"
     </p>
+        <p align="center">
+  <img src="Photo/empcorr.png"
+    </p>
 #  Key Insights
 
 1️⃣ Mid-tenure employees (3–10 years) are the most productive and receive the highest number of awards.
