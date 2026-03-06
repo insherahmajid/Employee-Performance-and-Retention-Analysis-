@@ -88,17 +88,18 @@ Visualizations
 -Employees with 3–10 years tenure contribute the highest KPI performance and awards.
 -Tenure alone does not guarantee higher performance, as KPI achievers have slightly lower average tenure.
 ** Power Bi Dashboard:**[Internshala_emp.pbix](Internshala_emp.pbix)
+
 ** Power Bi Dashboard Report:**[Internshala_emp.pdf](Internshala_emp.pdf)
 ** Dashboard Perview: 
 <p align="center">
-  <img src="Photo/Screenshot(105).png"
-    <\p>
+  <img src="Photo/emp1.png"
+    </p>
   <p align="center">
-  <img src="Photo/Screenshot(106).png"
-    <\p>
+  <img src="Photo/emp2.png"
+    </p>
     <p align="center">
-  <img src="Photo/Screenshot(107).png"
-    <\p>
+  <img src="Photo/emp3.png"
+    </p>
 #  Key Insights
 
 1️⃣ Mid-tenure employees (3–10 years) are the most productive and receive the highest number of awards.
