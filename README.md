@@ -42,6 +42,7 @@ Key analyses performed:
 -Department-wise performance
 -Previous rating vs KPI achievement
 -Correlation analysis between numerical variables
+** Python file: **[internshala_emp.ipynb](internshala_emp.ipynb)
 # Power BI Dashboard
 The dashboard is divided into three analytical sections.
 # Page 1: Workforce Overview
@@ -86,7 +87,18 @@ Visualizations
 -The 30–40 age group dominates the workforce.
 -Employees with 3–10 years tenure contribute the highest KPI performance and awards.
 -Tenure alone does not guarantee higher performance, as KPI achievers have slightly lower average tenure.
-
+** Power Bi Dashboard:**[Internshala_emp.pbix](Internshala_emp.pbix)
+** Power Bi Dashboard Report:**[Internshala_emp.pdf](Internshala_emp.pdf)
+** Dashboard Perview: 
+<p align="center">
+  <img src="Photo/Screenshot(105).png"
+    <\p>
+  <p align="center">
+  <img src="Photo/Screenshot(106).png"
+    <\p>
+    <p align="center">
+  <img src="Photo/Screenshot(107).png"
+    <\p>
 #  Key Insights
 
 1️⃣ Mid-tenure employees (3–10 years) are the most productive and receive the highest number of awards.
